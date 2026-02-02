@@ -1,7 +1,7 @@
 # Iran_Mirrors_Tester
 A bash script to test and find the fastest Ubuntu mirror server in Iran for Linux clients.
 
-mirrors :
+mirrors list:
 - mirror.iranserver.com
 - ir.ubuntu.sindad.cloud
 - mirror.arvancloud.ir
