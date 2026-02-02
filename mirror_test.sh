@@ -23,6 +23,7 @@ MIRRORS=(
     "ubuntu.shatel.ir"
     "mirror.faraso.org"
     "repo.linuxmirrors.ir"
+    "ir.archive.ubuntu.com"
 )
 
 echo -e "${BOLD}${CYAN}╔════════════════════════════════════════╗${RESET}"
