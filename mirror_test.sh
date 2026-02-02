@@ -26,7 +26,7 @@ MIRRORS=(
 )
 
 echo -e "${BOLD}${CYAN}╔════════════════════════════════════════╗${RESET}"
-echo -e "${BOLD}${CYAN}║   🔍 Ubuntu Mirror Speed Test 🔍      ║${RESET}"
+echo -e "${BOLD}${CYAN}║    🔍 Ubuntu Mirror Speed Test 🔍      ║${RESET}"
 echo -e "${BOLD}${CYAN}╚════════════════════════════════════════╝${RESET}\n"
 
 # Array to store results
