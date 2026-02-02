@@ -6,13 +6,14 @@ mirrors :
 - ir.ubuntu.sindad.cloud
 - mirror.arvancloud.ir
 - archive.ubuntu.petiak.ir
-- ubuntu.hostiran.ir
--  mirrors.pardisco.co
--  ubuntu.pars.host
+- ubuntu.hostiran.ir 
+- mirrors.pardisco.co 
+- ubuntu.pars.host
 - mirror.0-1.cloud
-- ubuntu.shatel.ir
--  mirror.faraso.org
--  repo.linuxmirrors.ir
+- ubuntu.shatel.ir 
+- mirror.faraso.org
+- repo.linuxmirrors.ir
+- ir.archive.ubuntu.com
 
 usage:
 
